@@ -1,0 +1,6 @@
+model_checkpoint_path: "digits.ckpt-20000"
+all_model_checkpoint_paths: "digits.ckpt-19600"
+all_model_checkpoint_paths: "digits.ckpt-19700"
+all_model_checkpoint_paths: "digits.ckpt-19800"
+all_model_checkpoint_paths: "digits.ckpt-19900"
+all_model_checkpoint_paths: "digits.ckpt-20000"
